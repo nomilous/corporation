@@ -1,5 +1,4 @@
 ###
-
     corporation || ~>
 
 ###
@@ -10,3 +9,11 @@
 nodule.exports      = (pending...) -> deferred (action, opts, callback) ->  
 nodule.exports.meta = -> 
 
+
+###
+    random link
+    -----------
+
+    [relativistic orbital resonance - inverse planck scale](http://www.tapir.caltech.edu/~sdrasco/animations/index.html)
+
+###
