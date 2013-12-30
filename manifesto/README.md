@@ -1,4 +1,7 @@
+
 ### the philosophies of wellbeing
+
+### the philosophies of effort
 
 ### the philosophies of community
 
