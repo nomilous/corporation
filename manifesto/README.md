@@ -12,6 +12,8 @@
 
 ### the philosophies of community
 
+#### apprehend your interpretings
+
 ### the philosophies of information
 
 #### respect the open gambit

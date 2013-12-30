@@ -1,0 +1,34 @@
+vertex.api.meta
+
+```
+
+
+objective
+    
+    input:
+        meta: 
+            name: 'input-list-1'
+            puropose: 'best front, or is a front necessary'
+            notes: """
+
+
+
+            """
+    
+        1: nothing in front of node vertex
+        2: http://mongrel2.org/wiki/quick_start.html
+        3: ?
+        n: -> i, 'suggest'
+
+    1: -> i, 'bloat the input-list-1'
+    2: -> i, 'benchmark input-list-1
+
+
+realize ...
+
+#
+# such a lot of infrastructure to do
+#
+
+```
+
