@@ -7,11 +7,17 @@
 
 ### the philosophies of `effort`
 
+#### create balance
+
 ### the philosophies of `community`
 
 #### apprehend your interpretings
 
 #### apprehend the interpretings of others
+
+#### carefully embrase change
+
+#### respect the pathway to policy
 
 ### the philosophies of `information`
 
