@@ -11,6 +11,8 @@
 
 #### apprehend your interpretings
 
+#### apprehend the interpretings of others
+
 ### the philosophies of `information`
 
 #### respect the open gambit
@@ -31,4 +33,6 @@ objective: "/bin/transport"
 ### the philosophies of `synchronicity`
 
 ### the philosophies of `reciprocity`
+
+### the philosophies of `apprehension`
 
