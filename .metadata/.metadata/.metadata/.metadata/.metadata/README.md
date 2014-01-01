@@ -9,7 +9,7 @@
 
 
 
-          for better or for worse, in sickeness and in health, till death do us part, 
+          for better or for worse, in sickness and in health, till death do us part, 
           humans and computers are now joined together more durably than husbands and wives.  
 
 

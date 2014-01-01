@@ -15,7 +15,7 @@
 
 #### apprehend the interpretings of others
 
-#### carefully embrase change
+#### carefully embrace change
 
 #### respect the pathway to policy
 
