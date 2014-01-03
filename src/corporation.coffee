@@ -23,5 +23,6 @@ module.exports = -> ->
 #     [islands of meaning](http://www.youtube.com/watch?v=zq4p2qbE684&t=48m15s)
 # 
 #     [citizen sensing](http://www.youtube.com/watch?v=Ho7CE-Ehd1A)
+#     [memristor](http://www.youtube.com/watch?v=bKGhvKyjgLY&t=2777)
 # 
 # ###
