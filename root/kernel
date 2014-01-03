@@ -1,0 +1,6 @@
+notify('corporation')
+
+    ws: "#{eo.hostname}:#{eo.port}"
+
+    (pending...) ->
+
