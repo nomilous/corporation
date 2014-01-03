@@ -26,6 +26,7 @@ module.exports = -> ->
 #     [memristor](http://www.youtube.com/watch?v=bKGhvKyjgLY&t=2777&hello=1)
 # 
 #     [oasis ntologie](http://www.oasis-project.eu/index.php)
+#     [earth charter](http://www.youtube.com/watch?v=Whe_y47SGtg)
 # 
 # 
 #     [∞π](http://www.youtube.com/watch?v=MnLVDYBkjM4)
