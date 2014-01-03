@@ -37,9 +37,15 @@ objective: "/bin/transport"
 
 ### the philosophies of `resource`
 
+#### persue multiple imperatives
+
 ### the philosophies of `synchronicity`
 
+#### persue multiple imperatives
+
 ### the philosophies of `reciprocity`
+
+#### persue multiple imperatives
 
 ### the philosophies of `apprehension`
 
