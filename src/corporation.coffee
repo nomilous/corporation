@@ -25,4 +25,6 @@ module.exports = -> ->
 #     [citizen sensing](http://www.youtube.com/watch?v=Ho7CE-Ehd1A)
 #     [memristor](http://www.youtube.com/watch?v=bKGhvKyjgLY&t=2777&hello=1)
 # 
+#     [oasis ntologie](http://www.oasis-project.eu/index.php)
+# 
 # ###
