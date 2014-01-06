@@ -63,3 +63,4 @@ objective: "/bin/navigator"
 
 ### the philosophies of `determination`
 
+* the philosophies of what hat
