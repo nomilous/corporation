@@ -1,5 +1,5 @@
 
-**möbius trip** `noun` -> A [monster](http://www.youtube.com/watch?v=Pin8fbdGV9Y&list=PLFA50FBC214A6CE87) appears on the path ahead...
+**möbius trip** `noun` ~ A [monster](http://www.youtube.com/watch?v=Pin8fbdGV9Y&list=PLFA50FBC214A6CE87) appears on the path ahead...
 
 Do you:
 
