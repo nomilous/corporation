@@ -34,6 +34,12 @@ objective: "/bin/transport"
 
 ```
 
+```
+
+objective: "/bin/navigator"
+
+```
+
 
 ### the philosophies of `resource`
 
@@ -49,4 +55,9 @@ objective: "/bin/transport"
 
 ### the philosophies of `apprehension`
 
-apprehend apprehension
+* the first answer will not be weighted
+
+* anothers first answer will be heard
+
+* the second question will the first
+
