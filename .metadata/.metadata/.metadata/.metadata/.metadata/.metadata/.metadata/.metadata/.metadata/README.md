@@ -8,7 +8,7 @@
 
 
 
-                                         A most remarkable hat.
+                                         A most remarkable hat,
 
 
 
