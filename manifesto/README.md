@@ -61,3 +61,5 @@ objective: "/bin/navigator"
 
 * the second question will the first
 
+#### the philosophies of `determination`
+
