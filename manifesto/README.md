@@ -59,7 +59,7 @@ objective: "/bin/navigator"
 
 * anothers first answer will be heard
 
-* the second question will the first
+* the second question will be the first
 
 #### the philosophies of `determination`
 
