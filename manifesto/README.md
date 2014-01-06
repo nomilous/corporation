@@ -64,3 +64,8 @@ objective: "/bin/navigator"
 ### the philosophies of `determination`
 
 * the philosophies of what hat
+
+* the philosophies of integrity
+
+* the philosophies of imerative
+
