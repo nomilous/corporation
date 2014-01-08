@@ -8,13 +8,13 @@
 
 
 
-                                         A most remarkable hat,
+                                       A most remarkable hat,
 
 
 
 
 
-             http://www.youtube.com/watch?feature=player_detailpage&amp;v=u0gj8xuc11w#t=2255
+  http://www.kickstarter.com/projects/openbci/openbci-an-open-source-brain-computer-interface-fo
 
 
 
