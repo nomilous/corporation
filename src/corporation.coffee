@@ -32,4 +32,6 @@ module.exports = -> ->
 #     [∞π](http://www.youtube.com/watch?v=MnLVDYBkjM4)
 #     [parabolics](http://www.youtube.com/watch?v=1ieR8hIXUIg)
 # 
+#     [diy](https://diy.org)
+# 
 # ###
