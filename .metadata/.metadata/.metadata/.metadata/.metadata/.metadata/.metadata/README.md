@@ -9,7 +9,7 @@
 
 
 
-                                  hyperlink |Noun| -> 'knowledge token'
+                                  hyperlink |node| -> 'knowledge vertex
 
 
 
@@ -55,7 +55,7 @@
 
 
 
-
+                                                 pi(vot)
 
                                                                                                              .
 </pre>

@@ -7,3 +7,5 @@
 [the flight of the good ship arbitrary](http://www.youtube.com/watch?v=IRl9D_agLbU&hello=1)<br />
 [the flight of the penguins](http://www.youtube.com/watch?v=9dfWzp7rYR4&hello=1)<br />
 [the flight of the cultural heritage](http://oi.uchicago.edu/pdf/oimp28.pdf?hello=1)
+[the flight of the lazer bat](http://www.youtube.com/watch?v=4niz8TfY794&hello=1)
+
